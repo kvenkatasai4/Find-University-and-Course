@@ -1,0 +1,22 @@
+D:\Projects\Latest\Sai Kiran\Find University and Course\Business Logic Layer\bin\Debug\Business Logic Layer.dll
+D:\Projects\Latest\Sai Kiran\Find University and Course\Business Logic Layer\bin\Debug\Business Logic Layer.pdb
+D:\Projects\Latest\Sai Kiran\Find University and Course\Business Logic Layer\bin\Debug\Data Access Layer.dll
+D:\Projects\Latest\Sai Kiran\Find University and Course\Business Logic Layer\bin\Debug\Data Access Layer.pdb
+D:\Projects\Latest\Sai Kiran\Find University and Course\Business Logic Layer\obj\Debug\Business Logic Layer.csprojResolveAssemblyReference.cache
+D:\Projects\Latest\Sai Kiran\Find University and Course\Business Logic Layer\obj\Debug\Business Logic Layer.dll
+D:\Projects\Latest\Sai Kiran\Find University and Course\Business Logic Layer\obj\Debug\Business Logic Layer.pdb
+D:\Projects\Latest\Sai Kiran\Find University and Course\Business Logic Layer\bin\Debug\Database1.mdf
+D:\Projects\Latest\Sai Kiran\Find University and Course\Business Logic Layer\bin\Debug\Database1_log.ldf
+D:\Projects\Latest\Sai Kiran\Find University and Course\Business Logic Layer\bin\Debug\EntityFramework.dll
+D:\Projects\Latest\Sai Kiran\Find University and Course\Business Logic Layer\bin\Debug\EntityFramework.xml
+E:\study\C#\projects\Find University\Find University and Course\Business Logic Layer\bin\Debug\Database1.mdf
+E:\study\C#\projects\Find University\Find University and Course\Business Logic Layer\bin\Debug\Database1_log.ldf
+E:\study\C#\projects\Find University\Find University and Course\Business Logic Layer\bin\Debug\Business Logic Layer.dll
+E:\study\C#\projects\Find University\Find University and Course\Business Logic Layer\bin\Debug\Business Logic Layer.pdb
+E:\study\C#\projects\Find University\Find University and Course\Business Logic Layer\bin\Debug\Data Access Layer.dll
+E:\study\C#\projects\Find University\Find University and Course\Business Logic Layer\bin\Debug\EntityFramework.dll
+E:\study\C#\projects\Find University\Find University and Course\Business Logic Layer\bin\Debug\Data Access Layer.pdb
+E:\study\C#\projects\Find University\Find University and Course\Business Logic Layer\bin\Debug\EntityFramework.xml
+E:\study\C#\projects\Find University\Find University and Course\Business Logic Layer\obj\Debug\Business Logic Layer.csprojResolveAssemblyReference.cache
+E:\study\C#\projects\Find University\Find University and Course\Business Logic Layer\obj\Debug\Business Logic Layer.dll
+E:\study\C#\projects\Find University\Find University and Course\Business Logic Layer\obj\Debug\Business Logic Layer.pdb

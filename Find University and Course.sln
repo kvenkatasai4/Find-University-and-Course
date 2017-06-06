@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find University and Course", "Find University and Course\Find University and Course.csproj", "{9613431F-30BE-415D-AE4F-0A63C87F3771}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business Logic Layer", "Business Logic Layer\Business Logic Layer.csproj", "{ADFD9444-12DE-41DC-AE8D-7F4F8CA6F413}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data Access Layer", "Data Access Layer\Data Access Layer.csproj", "{40492977-1013-4387-9762-44CCC2267253}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9613431F-30BE-415D-AE4F-0A63C87F3771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9613431F-30BE-415D-AE4F-0A63C87F3771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9613431F-30BE-415D-AE4F-0A63C87F3771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9613431F-30BE-415D-AE4F-0A63C87F3771}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADFD9444-12DE-41DC-AE8D-7F4F8CA6F413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADFD9444-12DE-41DC-AE8D-7F4F8CA6F413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADFD9444-12DE-41DC-AE8D-7F4F8CA6F413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADFD9444-12DE-41DC-AE8D-7F4F8CA6F413}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40492977-1013-4387-9762-44CCC2267253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40492977-1013-4387-9762-44CCC2267253}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40492977-1013-4387-9762-44CCC2267253}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40492977-1013-4387-9762-44CCC2267253}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
